@@ -6,7 +6,7 @@ import sys, datetime
 from colorama import Fore, Style
 import webbrowser
 
-webbrowser.open("https://guns.lol/hooked")
+webbrowser.open("https://guns.lol/HUBERTOLLOS")
 
 sys.dont_write_bytecode = True
 from source.headers import Headers
